@@ -1,4 +1,4 @@
-# Hand tracking and interaction by computer vi­sion for patients rehabilitationMaster ThesisDTU ComputeDepartment of Applied Mathematics and Computer Science
+# Hand tracking and interaction by computer vision for patients rehabilitationMaster
 
 With the development of artificial intelligence, highly accurate and real-time human tracking on mobile devices has become possible. Hand and body dexterity can be affected by stroke, but there is no affordable and convenient method to provide a long-term quantitative approach to track body dexterity.
 
@@ -8,4 +8,4 @@ The rubber band test found that it was possible to measure the difference in han
 
 Finally, this thesis reflects on how mobile devices may provide input to a digital patient twin by offering a convenient, remote quantification of patients' physical dexterity for clinical professionals, and a user-friendly method for stroke patients to record the progress of their rehabilitation with their own phones or tablets.
 
-All original code are kept in this place. Feel free contact me, if someone insterest about this topic.
+All original code are kept in this place. The landmark detect models used in here are based on [MediaPipe](https://mediapipe.dev/) Feel free contact me, if someone insterest about this topic.
